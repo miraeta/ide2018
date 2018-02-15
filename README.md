@@ -1,1 +1,3 @@
 # ide2018
+
+Ikasten ai naizen hontan...
